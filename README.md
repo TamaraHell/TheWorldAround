@@ -61,4 +61,4 @@
 
 ![image](https://github.com/RusAl84/testAltair/blob/main/Documents/hadgehog.jpg)
 
-![blob](https://web.telegram.org/aa1875d0-c096-4207-83ef-39bcd06d731a)
+![image](https://web.telegram.org/aa1875d0-c096-4207-83ef-39bcd06d731a)
